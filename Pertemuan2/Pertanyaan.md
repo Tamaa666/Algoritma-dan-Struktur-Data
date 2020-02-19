@@ -30,7 +30,7 @@ Jawaban 2.4.3
 Jawaban 2.5.3
 
     1. Bisa dilihat di baris 19
-    2. Jawaban pada source code
+    2. Pada baris tersebut dilakukan pengisian pada objek bernama b2 dengan parameter yang telah 	       	      diinputkan
     3. Jawaban pada source code
 
 Jawaban 2.6.3
